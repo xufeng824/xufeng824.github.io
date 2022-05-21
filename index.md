@@ -1,7 +1,6 @@
 #  沈栩烽
 
-<img align="right" src=/IMG_0826.JPG/>
-
+<div align=right>![证件照](/IMG_0826.JPG)
 
 ## 教育背景
 ### 安徽大学 互联网学院    工学学士 网络工程  (2017.9-2021.6)
