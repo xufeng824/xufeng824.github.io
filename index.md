@@ -16,7 +16,7 @@
 #### (2022 年 5 月) 个人项目，关于一种 M/M/2 异步服务器排队系统，带有一个休假的研究。项目包含读相关论文，画出马尔科夫链，分析理论值并且使用 MATLAB 测试，用 Python 进行仿真，设置时钟变量追踪临近事件。最后将仿真结果与真实结果进行比对。
 
 <center class = "half">
-<img src = “./1.jpg”  width = “50%” align = left><img src = “./2.jpg”  width = “50%” align = right>
+<img src = "/1.jpg"  width = “50%” align = left><img src = "./2.jpg"  width = “50%” align = right>
 </center>
 
 
