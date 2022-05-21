@@ -7,5 +7,4 @@
 ## 兴趣方向 
 ### 随机过程，机器学习，深度学习
 ### Python C++
-
-<div align=right>![证件照](/IMG_0826.JPG)</div>
+![证件照](/IMG_0826.JPG)
