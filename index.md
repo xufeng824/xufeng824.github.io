@@ -1,5 +1,4 @@
 #  沈栩烽
-![证件照](/IMG_0826.JPG#pic_right)
 
 <img align="right" src=/IMG_0826.JPG/>
 
