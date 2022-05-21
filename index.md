@@ -1,10 +1,6 @@
 #  沈栩烽
 
-<center>
-
-![证件照](IMG_0826.JPG)
-  
-</center>
+<img src="https://github.com/xufeng824/xufeng824.github.io/blob/main/IMG_0826.JPG" align="right">
 
 ## 教育背景
 ### 安徽大学 互联网学院    工学学士 网络工程  (2017.9-2021.6)
