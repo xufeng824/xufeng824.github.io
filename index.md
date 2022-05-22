@@ -30,4 +30,4 @@
 #### (2019 年 11 月 - 2020 年 2 月) 团队项目. 建造一个图片搜索引擎，输入文字可以输出对应的图片，这个项目用的是 ResNet-50，最训练了 30G 的图片，最终有一个%87 的准确率
 
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+Total visitors:![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
