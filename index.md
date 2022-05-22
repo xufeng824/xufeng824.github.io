@@ -12,7 +12,7 @@
 ### Python C++
 
 Total visitors:![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-![Cristmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![Xufeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
 
 
 ## 项目背景
