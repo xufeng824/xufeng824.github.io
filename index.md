@@ -2,6 +2,7 @@
 
 <img src="/IMG_0826.JPG" align="right">
 
+
 ## 教育背景
 ### 安徽大学 互联网学院    工学学士 网络工程  (2017.9-2021.6)
 ### 波士顿大学 工程学院    工学硕士 系统工程  (2021.9-2023.1)
@@ -9,6 +10,9 @@
 ## 兴趣方向 
 ### 随机过程，机器学习，深度学习
 ### Python C++
+
+Total visitors:![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Cristmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
 
 
 ## 项目背景
@@ -29,5 +33,3 @@
 ### 互联网多模态搜索引擎 (深度学习，Pytorch): 
 #### (2019 年 11 月 - 2020 年 2 月) 团队项目. 建造一个图片搜索引擎，输入文字可以输出对应的图片，这个项目用的是 ResNet-50，最训练了 30G 的图片，最终有一个%87 的准确率
 
-
-Total visitors:![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
