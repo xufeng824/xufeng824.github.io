@@ -11,9 +11,6 @@
 ### 随机过程，机器学习，深度学习
 ### Python C++
 
-Total visitors:![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-![Xufeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
-
 
 ## 项目背景
 ### 一种 M/M/2 排队系统的分析与仿真 (随机过程，仿真):
